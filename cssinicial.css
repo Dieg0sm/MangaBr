@@ -1,0 +1,26 @@
+		/*configuraçao navegador*/
+    	*{
+    	margin: 0 auto;
+    	padding: 0;
+    	box-sizing: border-box;
+    	}
+  		h1{
+  			height: 100px;
+  			widht: 250px;
+  			background-color: #1A2435;
+  			}
+  		body{
+  			background-color: #323B4C;
+  			}
+  		.texto{
+  			color: #FFFFFF;
+  			text-align: center;
+  		h1{
+  			font-size: 250%;
+  			}
+  		h3{
+  			font-size: 75%;
+  			}
+  		ul{
+  			list-style: none;
+  			}
